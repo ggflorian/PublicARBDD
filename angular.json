@@ -144,6 +144,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PublicARBDD"
+    }
+  },
+  "defaultProject": "PublicARBDD",
+  "cli": {
+    "analytics": "99408f21-c37d-41b0-b33f-37f4eda31526"
+  }
 }
